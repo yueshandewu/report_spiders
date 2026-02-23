@@ -48,8 +48,8 @@ jobs:
       with:
         create-target-branch-if-needed: true
         source-directory: 'gen_report'
-        destination-github-username: 'manymore13'
-        destination-repository-name: 'report'
+        destination-github-username: 'yueshandewu'
+        destination-repository-name: 'dongcai_report'
         target-branch: main
         commit-message: "东财行业研报更新"
             
